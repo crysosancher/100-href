@@ -14,7 +14,7 @@ Just add a new title in index.html in the navbar and in href give the link of yo
 </button>
 ```
 
-- copy this code and past at inside the container div tag.
+- copy this code and paste at inside the container div tag.
 
 Structure could be assets/userName
 eg:- assets/Crysosancher
